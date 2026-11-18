@@ -102,7 +102,9 @@ Snapshot 9: Editing routes
 
  
 Snapshot 10: Creating route table
-![Uploading Screenshot 2026-10-29 160320.png…]()
+<img width="960" height="540" alt="Screenshot 2026-11-02 123238" src="https://github.com/user-attachments/assets/b73eed39-ce98-4a66-8ed4-25cf66d4e8a4" />
+<img width="960" height="540" alt="Screenshot 2026-10-29 160320" src="https://github.com/user-attachments/assets/f304db87-a1c9-4410-848b-27db4b7d465e" />
+
 
 
 
