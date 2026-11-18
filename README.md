@@ -1,4 +1,4 @@
-# Deployment-and-configuration-of-a-Private-Cloud-in-AWS
+<img width="960" height="540" alt="Screenshot 2026-10-29 155252" src="https://github.com/user-attachments/assets/98abdee3-7b63-4e93-b24b-9b6f8da2a157" /><img width="960" height="540" alt="Screenshot 2026-10-29 153741" src="https://github.com/user-attachments/assets/a7651d73-8867-4eba-adba-18c29793208f" /># Deployment-and-configuration-of-a-Private-Cloud-in-AWS
 Ex.4 Deployment and configuration of a Private Cloud  in AWS
 
 Aim:
@@ -59,37 +59,50 @@ Snap Shot:
  
 
 Snapshot 1: Create VPC
+<img width="959" height="539" alt="Screenshot 2026-10-29 152553" src="https://github.com/user-attachments/assets/6e248356-5b43-4cad-872d-5d6b4750d28c" />
+
  
 Snapshot 2: Configuring Subnets
- 
+ <img width="960" height="540" alt="Screenshot 2026-10-29 153358" src="https://github.com/user-attachments/assets/ad455f2f-eecf-47f6-901a-eefff0711796" />
+
 
 Snapshot 3: Configure Subnets
- 
+ <img width="960" height="540" alt="Screenshot 2026-10-29 153426" src="https://github.com/user-attachments/assets/7a65ade5-2c6d-498b-b265-24a5bcc00f86" />
+
 
 Snapshot 4: Setting Internet gateway
+<img width="960" height="540" alt="Screenshot 2026-10-29 153427" src="https://github.com/user-attachments/assets/bc837c9f-960f-47c5-836e-7682ad611c1f" />
 
  
 Snapshot 5: Setting Internet gateway
+<img width="960" height="540" alt="Screenshot 2026-10-29 153707" src="https://github.com/user-attachments/assets/b7a919b1-95f7-448a-9adb-1f5abaee97f8" />
 
 
 
  
 
 Snapshot 6: Setting Internet gateway
+<img width="960" height="540" alt="Screenshot 2026-10-29 153741" src="https://github.com/user-attachments/assets/d1d08c78-5d6b-48a7-8182-68af05c578e4" />
+
 
  
 Snapshot 7: Creating route table
+<img width="960" height="540" alt="Screenshot 2026-10-29 154349" src="https://github.com/user-attachments/assets/71d3fdc7-2738-43a3-920a-eccd0484ace8" />
 
  
 
 Snapshot 8: Configuring route table
 
+<img width="960" height="540" alt="Screenshot 2026-10-29 154753" src="https://github.com/user-attachments/assets/8891dadf-224b-442e-a880-ec6d21abc0f9" />
+<img width="960" height="540" alt="Screenshot 2026-10-29 154601" src="https://github.com/user-attachments/assets/84275bd8-1e06-4682-b9d9-911298fb2e3f" />
 
  
 Snapshot 9: Editing routes
+<img width="960" height="540" alt="Screenshot 2026-10-29 155252" src="https://github.com/user-attachments/assets/7d27ea7e-0238-4955-9993-239106754d2e" />
 
  
 Snapshot 10: Creating route table
+![Uploading Screenshot 2026-10-29 160320.png…]()
 
 
 
